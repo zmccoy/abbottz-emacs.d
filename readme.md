@@ -18,4 +18,5 @@ And then:
 
 
 Modes for Macs to make things easier:
-(Coming Soon)
+* cua-mode
+* ns-toggle-fullscreen
