@@ -1,6 +1,6 @@
 # my .emacs.d
 
-Taken from jwinder, but Inappropriately closely inspired by [rubbish](https://github.com/rubbish/rubbish-emacs-setup).
+Mostly taken from jwinder, with modifications, but Inappropriately closely inspired by [rubbish](https://github.com/rubbish/rubbish-emacs-setup).
 
 Here are a few common packages that you might need (you might need others):
 * `apt-get install libgtk2.0-dev`
@@ -10,7 +10,12 @@ Here are a few common packages that you might need (you might need others):
 * for ruby, `gem install rake`
 * for json-validate, install [trentm json](https://github.com/trentm/json)
 
+
 And then:
 * install [emacs 24.1](http://www.gnu.org/software/emacs/), `./configure`, `make`, `sudo make install` or download using your favorite package manager
 * clone this repo to `$HOME/.emacs.d`
 * run emacs
+
+
+Modes for Macs to make things easier:
+(Coming Soon)
