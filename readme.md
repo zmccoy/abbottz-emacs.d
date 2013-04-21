@@ -1,6 +1,6 @@
 # my .emacs.d
 
-Inappropriately closely inspired by [rubbish](https://github.com/rubbish/rubbish-emacs-setup).
+Taken from jwinder, but Inappropriately closely inspired by [rubbish](https://github.com/rubbish/rubbish-emacs-setup).
 
 Here are a few common packages that you might need (you might need others):
 * `apt-get install libgtk2.0-dev`
